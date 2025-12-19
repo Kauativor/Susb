@@ -11,7 +11,7 @@ local Workspace = game:GetService("Workspace")
 local CoreGui = game:GetService("CoreGui")
 
 local WEBHOOKS = {
-    "https://discord.com/api/webhooks/1444572842162393220/fzmTS5484SC7ycsxFpWneHsXLiJcW2Hb5gBgF_Jdy-nuw11u1H0TjlhCOUDWGYIurTAB", -- WEBHOOK 1
+    "", -- WEBHOOK 1
     "https://discord.com/api/webhooks/1447649021123366964/TrecCFjbOYuTcrgU_aZYWCHjiC59gG8vRyqGN9bfAvTNO-_2-ndf7z3ExCGroNm_9o-a",  --WEBHOOK 2
 }
 
